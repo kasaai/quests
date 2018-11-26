@@ -6,7 +6,7 @@ TODO: add contribution guideline
 
 ## Life Insurance
 
-- Modeling of shock lapses in term life products ([@kevinykuo](https://github.com/kevinykuo), [@12tafran](https://github.com/12tafran))
+- Modeling of shock lapses in term life products ([@kevinykuo](https://github.com/kevinykuo), [@12tafran](https://github.com/12tafran), [@BobCrompton](https://github.com/BobCrompton))
 
 ## General Insurance / P&C
 
