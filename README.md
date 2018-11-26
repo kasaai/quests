@@ -8,7 +8,7 @@ See [CONTRIBUTING](https://github.com/kasaai/quests/blob/master/CONTRIBUTING.md)
 
 ## Life Insurance
 
-- Modeling of shock lapses in term life products ([@kevinykuo](https://github.com/kevinykuo), [@12tafran](https://github.com/12tafran), [@BobCrompton](https://github.com/BobCrompton))
+- [Predictive modeling of shock lapses in term life products](https://github.com/kasaai/quests/issues/4) ([@kevinykuo](https://github.com/kevinykuo), [@12tafran](https://github.com/12tafran), [@BobCrompton](https://github.com/BobCrompton))
 
 ## General Insurance / P&C
 
