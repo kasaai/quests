@@ -12,4 +12,4 @@ See [CONTRIBUTING](https://github.com/kasaai/quests/blob/master/CONTRIBUTING.md)
 
 ## General Insurance / P&C
 
-- [Recruiting] Personal lines pricing tutorial in R ([@kevinykuo](https://github.com/kevinykuo))
+- [[Recruiting] Personal lines pricing tutorial in R](https://github.com/kasaai/quests/issues/3) ([@kevinykuo](https://github.com/kevinykuo))
