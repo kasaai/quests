@@ -2,7 +2,7 @@
 
 This document keeps track of current and upcoming projects in insurance. It is meant to faciliate reruiting of collaborator, avoid duplication of effort, and provide visibility into the latest research. The projects are loosely organized by actuarial discipline. They may lead to academic papers, tutorials, and software, including contributions to other software packages.
 
-TODO: add contribution guideline
+See [CONTRIBUTING](https://github.com/kasaai/quests/blob/master/CONTRIBUTING.md) for guidelines on proposing projects.
 
 ## Life Insurance
 
