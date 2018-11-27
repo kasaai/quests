@@ -8,6 +8,10 @@ See [CONTRIBUTING](https://github.com/kasaai/quests/blob/master/CONTRIBUTING.md)
 
 The primary contact for each project is listed.
 
+## General
+
+- [[Recruiting] Evaluation of outlets](https://github.com/kasaai/quests/issues/6)
+
 ## Life Insurance
 
 - [Predictive modeling of shock lapses in term life products](https://github.com/kasaai/quests/issues/4) ([@kevinykuo](https://github.com/kevinykuo))
