@@ -2,7 +2,7 @@
 
 # Quests
 
-This repository keeps track of current and upcoming projects in insurance. It is meant to faciliate reruiting of collaborators, avoid duplication of effort, and provide visibility into the latest research. The projects are loosely organized by actuarial discipline. They may lead to academic papers, tutorials, and software, including contributions to other software packages.
+This repository keeps track of current and upcoming projects in insurance. It is meant to faciliate recruiting of collaborators, avoid duplication of effort, and provide visibility into the latest research. The projects are loosely organized by actuarial discipline. They may lead to academic papers, tutorials, and software, including contributions to other software packages.
 
 See [CONTRIBUTING](https://github.com/kasaai/quests/blob/master/CONTRIBUTING.md) for guidelines on proposing projects.
 
