@@ -12,5 +12,5 @@ See [CONTRIBUTING](https://github.com/kasaai/quests/blob/master/CONTRIBUTING.md)
 
 ## General Insurance / P&C
 
-- [[Recruiting] Personal lines pricing tutorial in R](https://github.com/kasaai/quests/issues/3) ([@kevinykuo](https://github.com/kevinykuo))
+- [Personal lines pricing tutorial in R](https://github.com/kasaai/quests/issues/3) ([@kevinykuo](https://github.com/kevinykuo))
 - [[Recruiting] Interpretability of ML models in pricing](https://github.com/kasaai/quests/issues/5) ([@kevinykuo](https://github.com/kevinykuo))
