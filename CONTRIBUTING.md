@@ -2,6 +2,8 @@
 
 To propose a project and recruit collaborators, simply open an issue with a brief description (with as much details as you feel comfortable sharing) then submit a pull request to update `README.md` with the project name and the name of the primary contact. A link to the project repo should be included as soon as the researchers feel comfortable sharing the code publicly.
 
+We encourage you to check out [kasaai/references](https://github.com/kasaai/references) for ideas.
+
 # Project guidelines
 
 We aim to be as inlcusive as possible, but here are a few requirements to ensure the projects are aligned with our mission:
