@@ -1,6 +1,6 @@
 # Proposing a project
 
-To propose a project and recruit collaborators, simply open an issue with a brief description (with as much details as you feel comfortable sharing) then submit a pull request to update `README.md` with the project name, and names of collaborators. A link to the project repo should be included as soon as the researchers feel comfortable sharing the code publicly.
+To propose a project and recruit collaborators, simply open an issue with a brief description (with as much details as you feel comfortable sharing) then submit a pull request to update `README.md` with the project name and the name of the primary contact. A link to the project repo should be included as soon as the researchers feel comfortable sharing the code publicly.
 
 # Project guidelines
 
