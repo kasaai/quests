@@ -6,7 +6,7 @@ We encourage you to check out [kasaai/references](https://github.com/kasaai/refe
 
 # Project guidelines
 
-We aim to be as inlcusive as possible, but here are a few requirements to ensure the projects are aligned with our mission:
+We aim to be as inclusive as possible, but here are a few requirements to ensure the projects are aligned with our mission:
 
 1. Whenever possible, utilize publicly available data. If proprietary data is required, attempt to perform some experiments with simulated data.
 2. When the preprint is available, the source code for experiments must also be open sourced and be made available on GitHub.
