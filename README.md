@@ -6,17 +6,15 @@ This repository keeps track of current and upcoming projects in insurance. It is
 
 See [CONTRIBUTING](https://github.com/kasaai/quests/blob/master/CONTRIBUTING.md) for guidelines on proposing projects.
 
-The primary contact for each project is listed.
-
 ## General
 
 - [[Recruiting] Evaluation of outlets](https://github.com/kasaai/quests/issues/6)
 
 ## Life Insurance
 
-- [Predictive modeling of shock lapses in term life products](https://github.com/kasaai/quests/issues/4) ([@kevinykuo](https://github.com/kevinykuo))
+- [Predictive modeling of shock lapses in term life products](https://github.com/kasaai/quests/issues/4)
 
 ## General Insurance / P&C
 
-- [Personal lines pricing tutorial in R](https://github.com/kasaai/pc-pricing-tutorial) ([@kevinykuo](https://github.com/kevinykuo))
-- [[Recruiting] Interpretability of ML models in pricing](https://github.com/kasaai/quests/issues/5) ([@kevinykuo](https://github.com/kevinykuo))
+- [Personal lines pricing tutorial in R](https://github.com/kasaai/pc-pricing-tutorial)
+- [[Recruiting] Interpretability of ML models in pricing](https://github.com/kasaai/quests/issues/5)
