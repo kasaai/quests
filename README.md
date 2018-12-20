@@ -17,4 +17,4 @@ See [CONTRIBUTING](https://github.com/kasaai/quests/blob/master/CONTRIBUTING.md)
 ## General Insurance / P&C
 
 - [Personal lines pricing tutorial in R](https://github.com/kasaai/pc-pricing-tutorial)
-- [[Recruiting] Interpretability of ML models in pricing](https://github.com/kasaai/quests/issues/5)
+- [Interpretability of ML models in pricing](https://github.com/kasaai/quests/issues/5)
