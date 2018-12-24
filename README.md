@@ -12,7 +12,7 @@ See [CONTRIBUTING](https://github.com/kasaai/quests/blob/master/CONTRIBUTING.md)
 
 ## Life Insurance
 
-- [Predictive modeling of shock lapses in term life products](https://github.com/kasaai/quests/issues/4)
+- [Predictive modeling of shock lapses in term life products](https://github.com/kasaai/lapseml)
 
 ## General Insurance / P&C
 
