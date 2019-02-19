@@ -18,3 +18,4 @@ See [CONTRIBUTING](https://github.com/kasaai/quests/blob/master/CONTRIBUTING.md)
 
 - [Personal lines pricing tutorial in R](https://github.com/kasaai/pc-pricing-tutorial)
 - [Interpretability of ML models in pricing](https://github.com/kasaai/quests/issues/5)
+- [Reserving tutorial in R](https://github.com/kasaai/quests/issues/7)
