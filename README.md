@@ -8,7 +8,7 @@ See [CONTRIBUTING](https://github.com/kasaai/quests/blob/master/CONTRIBUTING.md)
 
 ## General
 
-- [[Recruiting] Evaluation of outlets](https://github.com/kasaai/quests/issues/6)
+- [Evaluation of outlets](https://github.com/kasaai/quests/issues/6)
 
 ## Life Insurance
 
@@ -16,6 +16,12 @@ See [CONTRIBUTING](https://github.com/kasaai/quests/blob/master/CONTRIBUTING.md)
 
 ## General Insurance / P&C
 
+### Pricing
+
 - [Personal lines pricing tutorial in R](https://github.com/kasaai/pc-pricing-tutorial)
 - [Interpretability of ML models in pricing](https://github.com/kasaai/quests/issues/5)
+- [US Workers' Compensation Pricing package](https://github.com/kasaai/wcrater)
+
+### Reserving
+
 - [Reserving tutorial in R](https://github.com/kasaai/quests/issues/7)
