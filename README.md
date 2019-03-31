@@ -21,3 +21,8 @@ See [CONTRIBUTING](https://github.com/kasaai/quests/blob/master/CONTRIBUTING.md)
 
 - [Predictive modeling of shock lapses in term life products](https://github.com/kasaai/lapseml)
 
+-----
+
+Please note that this project is released with a [Contributor Code of
+Conduct](CODE_OF_CONDUCT.md). By participating in this project
+you agree to abide by its terms.

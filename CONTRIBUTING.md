@@ -16,6 +16,10 @@ We aim to be as inclusive as possible, but here are a few requirements to ensure
 
 We emphasize that the project collaborators have full control of when materials are shared, e.g. they may release code only when the first preprint is made available, but they should intend to achieve full reproducibility in the final result.
 
+# Contributor Code of Conduct
+
+All projects are *required* to include a link to the [Contributor Code of Conduct](CODE_OF_CONDUCT.md) in the repo's `README`, and maintainers must agree to enforce the terms.
+
 # Keeping up with the times
 
 As we scale up in number of projects and contributors, we will, with feedback from the community, adjust this document as necessary to ensure things run smoothly.
