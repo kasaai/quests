@@ -10,7 +10,7 @@ See [CONTRIBUTING](https://github.com/kasaai/quests/blob/master/CONTRIBUTING.md)
 
 - Pricing/Ratemaking
   - [Personal lines pricing tutorial in R](https://github.com/kasaai/pc-pricing-tutorial)
-  - [Interpretability of ML models in pricing](https://github.com/kasaai/quests/issues/5)
+  - [Interpretability of ML models in pricing](https://github.com/kasaai/explain-ml-pricing)
   - [US Workers' Compensation Pricing package](https://github.com/kasaai/wcrater)
 - Reserving
   - [Project Prioritization](https://github.com/kasaai/quests/issues/7)
