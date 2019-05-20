@@ -14,8 +14,6 @@ See [CONTRIBUTING](https://github.com/kasaai/quests/blob/master/CONTRIBUTING.md)
   - [US Workers' Compensation Pricing package](https://github.com/kasaai/wcrater)
 - Reserving
   - [Project Prioritization](https://github.com/kasaai/quests/issues/7)
-- Individual Claims Forecasting and Reserving
-  - [Structured Generative Modeling](https://github.com/kasaai/cvae-claims) 
 
 ## Life Insurance
 
