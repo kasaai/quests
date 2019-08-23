@@ -1,0 +1,161 @@
+<style>
+body {
+  min-width: 300px;
+}
+
+.custom-navbar {
+  margin-bottom: 1em;
+  height: 60px;
+}
+
+.custom-navbar a {
+  display: inline-block; 
+  padding: 18px 0;
+  margin-right: 1em; 
+  font-weight: bold; 
+}
+
+.custom-navbar a:hover,
+.custom-navbar a:focus {
+  text-decoration: none; 
+}
+
+@media print {
+  .custom-navbar {
+    display: none;
+  }
+}
+
+article {
+  padding-bottom: 1em;
+}
+
+img {
+  max-width: 100%;
+}
+
+{{ with .Site.Params.contentBackgroundColor }}
+body {
+  background-color: {{ . | safeCSS }};
+}
+{{ else }}
+body {
+  background-color: #fff;
+}
+{{ end }}
+
+{{ with .Site.Params.contentTextColor }}
+body {
+  color: {{ . | safeCSS }};
+}
+{{ else }}
+body {
+  color: #212529;
+}
+{{ end }}
+
+{{ with .Site.Params.contentLinkColor }}
+a {
+  color: {{ . | safeCSS }};
+}
+{{ else }}
+a {
+  color: #007bff;
+}
+{{ end }}
+
+{{ with .Site.Params.contentLinkHoverColor }}
+a:hover,
+a:focus {
+  color: {{ . | safeCSS }};
+}
+{{ else }}
+a:hover,
+a:focus {
+  color: #0056b3;
+}
+{{ end }}
+
+{{ with .Site.Params.navbarBackgroundColor }}
+.custom-navbar {
+  background-color: {{ . | safeCSS }};
+}
+{{ else }}
+.custom-navbar {
+  background-color: #212529;
+}
+{{ end }}
+
+{{ with .Site.Params.navbarLinkColor }}
+.custom-navbar a {
+  color: {{ . | safeCSS }};
+}
+{{ else }}
+.custom-navbar a {
+  color: rgba(255,255,255,.75);
+}
+{{ end }}
+
+{{ with .Site.Params.navbarLinkHoverColor }}
+.custom-navbar a:hover,
+.custom-navbar a:focus {
+  color: {{ . | safeCSS }};
+}
+{{ else }}
+.custom-navbar a:hover,
+.custom-navbar a:focus {
+  color: rgba(255,255,255,1);
+}
+{{ end }}
+
+{{ with .Site.Params.wrapperMaxWidth }}
+.container {
+  max-width: {{ . | safeCSS }};
+}
+{{ else }}
+.container {
+  max-width: 800px;
+}
+{{ end }}
+
+{{ if eq .Site.Params.customCodeStyle true }}
+pre {
+  display: block;
+  padding: 9.5px;
+  word-break: break-all;
+  word-wrap: break-word;
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+pre code {
+  padding: 0;
+  font-size: inherit;
+  color: inherit; 
+  white-space: pre-wrap;
+  background-color: transparent;
+  border: none;
+  border-radius: 0;
+}
+
+code {
+  padding: 2px 4px;
+  color: inherit; 
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: .9em;
+}
+{{ end }}
+
+{{ if eq .Site.Params.customBlockquoteStyle true }}
+blockquote,
+.blockquote {
+  padding: 10px 20px;
+  margin: 0 0 20px;
+  font-size: 1em;
+  border-left: 5px solid #6c757d;
+}
+{{ end }}
+</style>

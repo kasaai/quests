@@ -1,0 +1,7 @@
+<nav class="custom-navbar">
+  <div class="container">
+    {{ range .Site.Menus.nav }}
+    <a href="{{ .URL }}">{{ .Name }}</a>
+    {{ end }}
+  </div>
+</nav>
