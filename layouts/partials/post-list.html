@@ -1,5 +1,6 @@
 {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{ $lastUrlElement := index (split .URL "/") (sub (len (split .URL "/")) 2) }}
+<p>{{$lastUrlElement}}</p>
 {{ range $pages.ByPublishDate.Reverse }}
 {{ if or (in .Params.tags $lastUrlElement) (eq "" $lastUrlElement)}}
   <p>
