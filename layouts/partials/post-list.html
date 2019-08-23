@@ -2,6 +2,8 @@
 {{ $lastUrlElement := index (split .URL "/") (sub (len (split .URL "/")) 2) }}
 <p>{{$lastUrlElement}}</p>
 {{ range $pages.ByPublishDate.Reverse }}
+<p>{{$lastUrlElement}}</p>
+<p>{{.Params.tags}}</p>
 {{ if or (in .Params.tags $lastUrlElement) (eq "" $lastUrlElement)}}
   <p>
     <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
