@@ -1,5 +1,7 @@
 # Quests
 
+Repository for [quests.kasa.ai](https://quests.kasa.ai) which maintains a listing of current projects.
+
 -----
 
 Please note that this project is released with a [Contributor Code of
