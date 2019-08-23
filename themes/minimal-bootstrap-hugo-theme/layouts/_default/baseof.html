@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+
+{{ partial "head.html" . }}
+
+<body>
+  {{ partial "nav.html" . }}
+  
+  <div class="container">
+    <article>
+      {{ block "main" . }}{{ end }}
+    </article>
+  </div>
+
+  {{ partial "bootstrap-js.html" . }}
+  {{ partial "google-analytics-async.html" . }}
+  {{ partial "cookie-consent.html" . }}
+</body>
+
+</html>

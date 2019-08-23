@@ -1,0 +1,15 @@
+{{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{ $lastUrlElement := index (split .URL "/") (sub (len (split .URL "/")) 2) }}
+{{ range $pages.ByPublishDate.Reverse }}
+{{ if or (in .Params.tags $lastUrlElement) (eq "" $lastUrlElement)}}
+  <p>
+    <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+    <br>
+    {{ partial "tags" . }}
+    {{ if eq .Site.Params.showPostSummary true }}
+    <br>
+    {{ .Summary }}
+    {{ end }}
+  </p>
+{{ end }}
+{{ end }}
